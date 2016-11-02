@@ -1,0 +1,5 @@
+name: gateway
+dependencies:
+  - web-app
+  - mobile-app
+  - public-api
